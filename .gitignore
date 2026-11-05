@@ -3,4 +3,4 @@ dados/
 # Ambiente virtual e caches
 *.pyc
 .venv/
-__pycache__/
+__pycache__/fotos/
