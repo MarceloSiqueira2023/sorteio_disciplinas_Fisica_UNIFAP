@@ -1,0 +1,6 @@
+# dados locais (LGPD: nomes e fotos não vão para o repositório)
+dados/
+# Ambiente virtual e caches
+*.pyc
+.venv/
+__pycache__/
